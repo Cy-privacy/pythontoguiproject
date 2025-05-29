@@ -22,3 +22,5 @@ pywin32
 requests
 wheel
 termcolor
+customtkinter
+darkdetect
